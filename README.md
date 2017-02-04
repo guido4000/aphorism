@@ -9,7 +9,15 @@ git clone https://github.com/selfup/hyperapp-one
 
 ### To get started:
 
+Start
+
 ```bash
 npm install
 npm start
+```
+
+Build
+
+```bash
+npm run build
 ```
