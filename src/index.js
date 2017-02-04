@@ -1,6 +1,6 @@
-import { app } from 'hyperapp';
-import update from './updates/counter';
-import model from './models/counter';
-import view from './views/counter';
+import { app } from "hyperapp";
+import update from "./update";
+import model from "./model";
+import view from "./view";
 
 app({ model, update, view });

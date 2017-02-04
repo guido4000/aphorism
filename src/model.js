@@ -1,5 +1,5 @@
 const model = {
-  num: 0,
+  num: 0
 };
 
 export default model;
